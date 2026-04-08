@@ -14,7 +14,7 @@ Connect your GitHub account, list repositories, create pull requests, and levera
 ## Installation
 
 ```bash
-git clone https://github.com/iciwhite/gitplus.git
+git clone https://github.com/iciiwhite/gitplus.git
 cd gitplus
 make build
 ```
